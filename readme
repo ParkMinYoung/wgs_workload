@@ -1,4 +1,24 @@
 # execute time : 2024-04-16 10:13:10 : do not : error: remote origin already exists.
-git remote add origin https://github.com/ParkMinYoung/wgs_workload.git
+#git remote add origin https://github.com/ParkMinYoung/wgs_workload.git
+
+
+# execute time : 2024-04-16 10:15:26 : 
+git remote remove origin 
+
+
+# execute time : 2024-04-16 10:15:56 : 
+git remote add origin git@github.com:ParkMinYoung/wgs_workload.git 
+
+
+# execute time : 2024-04-16 10:13:30 : 
+git add .
+
+
+# execute time : 2024-04-16 10:13:51 : 
+git commit -m "readme update"
+
+
+# execute time : 2024-04-16 10:15:17 : 
+git remote --verbose
 
 
