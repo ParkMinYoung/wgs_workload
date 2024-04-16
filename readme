@@ -1,0 +1,4 @@
+# execute time : 2024-04-16 10:13:10 : do not : error: remote origin already exists.
+git remote add origin https://github.com/ParkMinYoung/wgs_workload.git
+
+
